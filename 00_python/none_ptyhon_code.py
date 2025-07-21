@@ -6,3 +6,7 @@ print(a -  b);
 print(a * b);
 print(a / b);
 print(a % b);
+
+print("Enter your name:")
+name = input()
+print(f"Hello {name}")
